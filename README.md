@@ -15,8 +15,18 @@
 </div>
  
 ---
-I'm Mireysa. I’m a Gameplay Engineer and Technical Game Designer who builds the systems and mechanics that bring games to life. My background is in enterprise software engineering, where I developed a strong foundation in clean, modular architecture and thoughtful system design. I bring that same discipline into my game development work, while also exploring level design and shader development on the side.
+### Hi, I'm Mireysa 👋
 
-At heart, I’m a lifelong gamer. I love action RPGs, shooters, simulators, and indie gems, and I’m always interested in understanding what makes a game feel great to play.
+**Gameplay Engineer & Technical Game Designer**
+*I build in the Pixel Aether.*
 
-**I build things in the Pixel Aether.**
+I spent years in enterprise software before teaching myself Unity. That background 
+still shows in how I work: systems that hold up under pressure, code other 
+people can actually read, design choices that are load-bearing, not decorative.
+
+Currently:
+- 🛠️ Building gameplay systems in Unity
+- 🎮 Exploring level design in Unreal Engine and UEFN
+- 🐱 Programmer at **Savage Kitties**, an indie game studio
+- 🔫 Open to collabing on UEFN projects
+
