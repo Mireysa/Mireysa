@@ -18,7 +18,7 @@
 ### Hi, I'm Mireysa 👋
 
 **Gameplay Engineer & Technical Game Designer**
-*I build in the Pixel Aether.*
+*I build things in the Pixel Aether.*
 
 I spent years in enterprise software before teaching myself Unity. That background 
 still shows in how I work: systems that hold up under pressure, code other 
