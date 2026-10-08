@@ -20,7 +20,7 @@
 **Gameplay Engineer & Technical Game Designer**
 *I build things in the Pixel Aether.*
 
-With a solid foundation in government enterprise software development, I set my heart on learning Unity game development. During a game jam, I met and joined Savage Kitties as a programmer where I build gameplay systems. My background shows up in how I work: systems that hold up under pressure, code other team members can actually read, and design choices that are load-bearing, not decorative.
+My background is in government and enterprise software, where I built a foundation in clean architecture and thoughtful system design. I've since taught myself Unity and brought that same discipline into game development. I work as a .NET web developer, and outside of that I'm a programmer at Savage Kitties, an indie game studio. In my free time, I explore, study, and build within Unreal Engine and UEFN. I'm always excited to connect with fellow developers, designers, and indie studios pushing the boundaries of what games can be.
 
 Currently:
 - 🛠️ Building gameplay systems in Unity at **Savage Kitties**
